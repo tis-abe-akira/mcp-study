@@ -9,6 +9,10 @@ This is a TypeScript-based MCP server that implements a cowsay system with multi
 
 ## Features
 
+### Image
+
+![cowsay](./pic.png)
+
 ### Tools
 - `say` - Generate a cowsay message
   - Takes a message as a required parameter
